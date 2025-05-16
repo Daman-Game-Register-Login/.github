@@ -12,7 +12,7 @@ The **Daman game registration** process is quick and beginner-friendly. Here's w
 3. 📱 Enter your mobile number  
 4. 🔐 Set a strong password  
 5. 📩 Verify your number via OTP  
-6. 🎁 *(Optional)* Enter a referral/invite code if you have one for bonuses  
+6. 🎁 Enter a invite code - 3488815781035 this one for bonuses  
 
 That’s it! You’re now officially registered on **Daman Game** and ready to start playing.
 
