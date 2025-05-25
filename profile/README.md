@@ -1,3 +1,15 @@
+<div align="center">
+
+<a href="https://damaninvitecode.in/daman" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.imageupload.app/b091d55022e1ab1d466f.png" alt="Daman Game Register" width="250" style="margin: 15px;" />
+</a>
+
+<a href="https://damaninvitecode.in/daman" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.imageupload.app/38310b96b8cfd419daaa.png" alt="Daman Game Login" width="250" style="margin: 15px;" />
+</a>
+
+</div>
+
 # Daman Game Register & Login – Quick Daman Game Registration Guide
 
 The **Daman game register** process is your gateway to exciting games and real cash rewards. Just sign up, log in, and start playing! Whether you searched for **Daman game registration** or **Daman game login register**, this guide helps you get started in no time.
@@ -47,17 +59,6 @@ Here’s what you unlock after a successful **Daman game register**:
 - 🎯 Check daily bonuses and leaderboard contests  
 - 🤝 Invite friends using your referral code and earn more  
 
-<div align="center">
-
-<a href="https://damaninvitecode.in/daman" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imageupload.app/b091d55022e1ab1d466f.png" alt="Daman Game Register" width="250" style="margin: 15px;" />
-</a>
-
-<a href="https://damaninvitecode.in/daman" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imageupload.app/38310b96b8cfd419daaa.png" alt="Daman Game Login" width="250" style="margin: 15px;" />
-</a>
-
-</div>
 
 
 ## 🧠 Summary
