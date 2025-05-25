@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://damaninvitecode.in/daman" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imageupload.app/b091d55022e1ab1d466f.png" alt="Daman Game Register" width="250" style="margin: 15px;" />
+  <img src="https://i.imageupload.app/b091d55022e1ab1d466f.png" alt="Daman Game Register" width="100%" style="margin: 15px;" />
 </a>
 
 <a href="https://damaninvitecode.in/daman" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imageupload.app/38310b96b8cfd419daaa.png" alt="Daman Game Login" width="250" style="margin: 15px;" />
+  <img src="https://i.imageupload.app/38310b96b8cfd419daaa.png" alt="Daman Game Login" width="100%" style="margin: 15px;" />
 </a>
 
 </div>
